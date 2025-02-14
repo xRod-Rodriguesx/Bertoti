@@ -29,4 +29,4 @@ Comentário: Através do trecho analisado é necessário fazer uma séria reflex
 3. Listar e explicar 3 exemplos de tradeoffs (falamos alguns nas aulas... você pode usá-los ou falar dos seus próprios):
 Exemplo de tradeoff 01: Linux e Windows, nesse caso temos de um lado um sistema totalmente permissivel e editável e do outro um sistema mais fechado e dependende de atualizações.
 Exemplo de tradeoff 02: Android e IOS, nesse caso temos um sistema mobile fechado e exclusivo, e do outro um sistema muito mais permissivo e manipulável.
-Exemplo de tradeoff 03:
+Exemplo de tradeoff 03: Java e Python, onde Java é extremamente portátil pois está mais próximo do hardware e python é mais acesspivel ao usuário porém não tem o mesmo nível de portabilidade, devido a suas camadas de compilação/tradução de códigos.
