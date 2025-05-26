@@ -35,3 +35,8 @@ Exemplo de tradeoff 03: Java e Python, onde Java é extremamente portátil pois 
 Slide 57:
 
 A imagem corresponde à uma representação gráfico do comentário de François Chollet, que fiz que o melhor primeiro passo para construção de um sistema end-to-end complexo, é contruir um sistema básico end-to-end, e não um submodelo daquilo que você acha que um sistema complexo é. Com isso ele quer dizer que ao inves de começar com uma grande estruturação e construindo tudo de forma complexa, é mais viavel fazer um sistema funcional mais simples e ir com o tempo aprimorando-o, dessa forma ocorrerá uma evolução gradativa mais natural no processo de criação. A partir dessa refleção é possível de forma intuitiva entendermos que nem sempre aquilo que acreditamos que é complexo e extenso, significa que é a melhor solução ou entrega para o que precisamos criar, logo, temos que quebrar diversos paradigmas nos momentos de desenvolvimento um deles é essa questão
+
+
+Atividade 5:
+
+https://github.com/xRod-Rodriguesx/Bertoti/blob/main/Engenharia%201/Atividade%205.txt
