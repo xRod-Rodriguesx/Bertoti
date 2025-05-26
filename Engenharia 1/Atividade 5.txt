@@ -1,0 +1,122 @@
+MAIN:
+
+import java.util.LinkedList;
+import java.util.List;
+
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+public class GameStore {
+    private List<Game> games = new LinkedList<>();
+
+    public GameStore() {
+    }
+
+    public void addGame(Game game) {
+        this.games.add(game);
+    }
+
+    public Game searchByName(String nome) {
+        for (Game game : this.games) {
+            if (game.getNome().equals(nome)) {
+                return game;
+            }
+        }
+        return null;
+    }
+
+    public List<Game> searchByGender(String genero) {
+        List<Game> encontrados = new LinkedList<>();
+        for (Game game : this.games) {
+            if (game.getGenero() != null && game.getGenero().equals(genero)) {
+                encontrados.add(game);
+            }
+        }
+        return encontrados;
+    }
+
+    public List<Game> getGames() {
+        return this.games;
+    }
+
+    public static void main(String[] args) {
+        GameStore store = new GameStore();
+        store.addGame(new Game("Zelda", "Aventura", "2001", 250.90));
+        store.addGame(new Game("Tibia", "MMORPG", "1996", 50.00));
+        System.out.println("Total de jogos: " + store.getGames().size());
+        System.out.println("Jogos Cadastrados:");
+        for (Game game : store.getGames()) {
+            System.out.println(game);
+        }
+
+    }
+}
+
+Classe Game:
+
+public class Game {
+    private String nome;
+    private String genero;
+    private String ano_lancamento;
+    private double preco;
+
+    public Game(String nome, String genero, String ano_lancamento, double preco) {
+        this.nome = nome;
+        this.genero = genero;
+        this.ano_lancamento = ano_lancamento;
+        this.preco = preco;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    public String getGenero() {
+        return genero;
+    }
+
+    public void setGenero(String genero) {
+        this.genero = genero;
+    }
+
+    public String getAno_lancamento() {
+        return ano_lancamento;
+    }
+
+    public void setAno_lancamento(String ano_lancamento) {
+        this.ano_lancamento = ano_lancamento;
+    }
+
+    public double getPreco() {
+        return preco;
+    }
+
+    public void setPreco(double preco) {
+        this.preco = preco;
+    }
+}
+
+
+
+Classe Teste:
+
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
+
+public class Teste {
+
+    @Test
+    void test() {
+        GameStore gamestore = new GameStore();
+        gamestore.addGame(new Game("Zelda", "Aventura", "1986", 199.90));
+        gamestore.addGame(new Game("Tibia", "MMORPG", "1996", 69.90));
+
+        Assertions.assertEquals(2, gamestore.getGames().size());
+        Game game = gamestore.searchByName("Zelda");
+        Assertions.assertNotNull(game);
+        Assertions.assertEquals("Zelda", game.getNome());
+    }
+}
