@@ -1,1 +1,233 @@
-.
+Sobre mim
+
+
+Comecei minha carreira trabalhando com gestão de tráfego de dados, onde percebi o quanto a automação pode facilitar a organização e análise de informações. Isso despertou meu interesse pela programação, especialmente Python, que me mostrou as diversas oportunidades que esse campo oferece.
+
+Em 2022, dei um grande passo ao iniciar o curso de Banco de Dados na FATEC. Desde então, venho melhorando minhas habilidades em desenvolvimento de backend e administração de bancos de dados.
+
+Tenho experiência na construção de projetos web usando Java (SpringBoot) e JavaScript (Node.js, React.js, Typescript), sempre priorizando a experiência do usuário e buscando melhorar a performance e a qualidade do código.
+
+Já trabalhei em empresa como APTIV, uma empresa do segmento automotivo, onde pude trabalhar em um laboratório de engenharia. Minha função envolvia o uso de Python para automatizar máquinas, realizar testes de equipamentos e registrar informações.
+
+Além disso, também trabalho em outra empresa, onde utilizo desde ferramentas de low code até a codificação direta no desenvolvimento de demandas de produtos personalizados para empresas que entram em contato conosco.
+
+Contatos
+Git
+LinkedIn
+Meus Principais Conhecimentos
+Aplicações e dados
+
+Java Spring JavaScript NodeJs HTML5 CSS React Python Styled Components MySQL Postgre
+
+Meus Projetos
+Em 2022-2
+Empresa Parceira: Avaliação 360° (Projeto Interno)
+Problema:
+O problema do projeto era criar um sistema de avaliação democratizada para a empresa PBLTeX, onde os membros do time pudessem se avaliar, incluindo autoavaliação, e ainda ter avaliações extras feitas por líderes e pelo cliente. Precisava ter controle de usuários, times, sprints e mostrar tudo isso em dashboards. O desafio era juntar tudo isso num sistema fácil de usar e que atendesse todos esses requisitos.
+
+Solução Entregue pela Equipe:
+A equipe desenvolveu uma aplicação que permitia aos integrantes do time realizar avaliações 360º, onde cada um podia avaliar os colegas e a si mesmo. Além disso, foram implementadas avaliações extras feitas pelo líder do grupo e pelo cliente. O sistema tinha controle de usuários e perfis, organizava as avaliações por sprints e mostrava tudo em dashboards, facilitando o acompanhamento dos resultados. Usamos ferramentas como GitHub, Notion e Excel para gerenciar e armazenar os dados, e criamos o front e back-end da aplicação, seguindo o planejamento das sprints.
+
+Repositório do Projeto
+
+Tecnologias Utilizadas
+Python: Utilizado no desenvolvimento do backend, proporcionando flexibilidade e facilidade de manutenção na lógica do sistema.
+PySimpleGUI: Ferramenta utilizada para o desenvolvimento da interface gráfica do usuário, permitindo uma criação rápida e simples da UI.
+Figma: Utilizado para design e prototipagem da interface, ajudando no planejamento do layout da aplicação.
+Excel: Utilizado para armazenar e gerenciar os dados do projeto de forma simples e eficaz.
+Git e GitHub: Essenciais para controle de versão e colaboração entre os membros da equipe, garantindo o gerenciamento eficiente do código.
+Notion: Ferramenta usada para gerenciar as tarefas do projeto e organizar o fluxo de trabalho da equipe.
+Contribuições Pessoais
+Atuei como Scrum Master
+Configuração da interface da tela de login
+Configuração da lógica da tela de login
+Hard Skills
+Python : Sei fazer com autonomia
+Notion : Sei fazer com autonomia
+Soft Skills
+Comunicação: Exercitei minhas habilidades de comunicação ao interagir frequentemente com a equipe, transmitindo a visão do cliente e alinhando expectativas. Mantive um diálogo aberto e constante com o cliente para entender suas necessidades e garantir que as funcionalidades desenvolvidas atendessem às suas expectativas.
+
+Autodidatismo : Demonstrei proatividade ao buscar e adquirir conhecimentos sobre tecnologias novas, como Spring Boot, que não tinha familiaridade anteriormente.
+
+Trabalho sob pressão: Em momentos de baixa de recursos no time, assumi mais responsabilidades do que o habitual para garantir que o projeto fosse entregue dentro do prazo estabelecido.
+
+Em 2023-1
+banner-api-3
+
+Projeto de Desenvolvimento de Sistema de Gestão de Horas Extras e Sobreavisos
+Empresa Parceira: 2RP
+Problema:
+A empresa enfrentava dificuldades na gestão eficiente das horas extras e sobreavisos dos colaboradores. O processo manual de registro e aprovação dessas horas era moroso e propenso a erros, resultando em atrasos no pagamento e insatisfação dos funcionários. Além disso, não havia um sistema centralizado para acompanhar e analisar essas informações, dificultando a tomada de decisões estratégicas por parte da gestão.
+
+Solução Entregue pela Equipe:
+Nossa equipe desenvolveu um sistema de gestão de horas extras e sobreavisos sob medida para as necessidades da empresa. O sistema permite que os colaboradores e gestores registrem e acompanhem suas horas extras e sobreavisos de forma intuitiva e eficiente. Os administradores têm acesso a ferramentas avançadas de parametrização, que permitem padronizar o sistema com valores a serem pagos pelas horas extras.
+
+O sistema também automatiza o processo de aprovação, encaminhando as horas registradas para os gestores e administradores responsáveis, agilizando assim o pagamento e garantindo a conformidade com as políticas internas da empresa. Com uma interface amigável e recursos de relatórios integrados, o sistema oferece uma visão abrangente e em tempo real das horas trabalhadas, facilitando a análise e a tomada de decisões pelos gestores.
+
+Repositório do Projeto
+
+Tecnologias Utilizadas
+Java: Essencial para o desenvolvimento do backend do sistema de gestão de horas extras e sobreavisos.
+JavaFX: Essencial para o desenvolvimento do Frontend de forma criativa e componentizada
+Git e Github: Ferramentas essenciais para controle de versão e colaboração entre os membros da equipe, permitindo o gerenciamento eficiente do código-fonte.
+MySQL: Ferramentas essenciais para controle de versão e colaboração entre os membros da equipe, permitindo o gerenciamento eficiente do código-fonte.
+Contribuições Pessoais
+Utilização do componente combobox do JavaFX
+Validação e Registro de Reprovação com Justificativa em JavaFX
+Hard Skills
+Java : Sei fazer com autonomia
+JavaFx : Sei fazer com ajuda
+Git/Github : Sei fazer com ajuda
+MySQL : Sei fazer com ajuda
+Soft Skills
+Autodidatismo : Por ser uma nova tecnologia, tive que aprender ao decorrer do semestre como utiliza-la para ter o sucesso do projeto
+
+Colaboração Em momentos que alguém do time estava com dificuldades ou problemas em sua task, acabei por ajudar ou realizar a task para que assim, tivesse-mos sucesso na sprint
+
+Em 2023-2
+banner-api-3
+
+Projeto de Desenvolvimento de Sistema de Gestão de Horas Extras e Sobreavisos
+Empresa Parceira: 2RP
+Problema:
+A empresa enfrentava dificuldades na gestão eficiente das horas extras e sobreavisos dos colaboradores. O processo manual de registro e aprovação dessas horas era moroso e propenso a erros, resultando em atrasos no pagamento e insatisfação dos funcionários. Além disso, não havia um sistema centralizado para acompanhar e analisar essas informações, dificultando a tomada de decisões estratégicas por parte da gestão.
+
+Solução Entregue pela Equipe:
+Nossa equipe desenvolveu um sistema de gestão de horas extras e sobreavisos sob medida para as necessidades da empresa. O sistema permite que os colaboradores e gestores registrem e acompanhem suas horas extras e sobreavisos de forma intuitiva e eficiente. Os administradores têm acesso a ferramentas avançadas de parametrização, que permitem padronizar o sistema com valores a serem pagos pelas horas extras.
+
+O sistema também automatiza o processo de aprovação, encaminhando as horas registradas para os gestores e administradores responsáveis, agilizando assim o pagamento e garantindo a conformidade com as políticas internas da empresa. Com uma interface amigável e recursos de relatórios integrados, o sistema oferece uma visão abrangente e em tempo real das horas trabalhadas, facilitando a análise e a tomada de decisões pelos gestores.
+
+Repositório do Projeto
+
+Tecnologias Utilizadas
+Java: Essencial para o desenvolvimento do backend do sistema de gestão de horas extras e sobreavisos.
+Spring Boot: Facilita a configuração e o desenvolvimento de aplicativos Java, permitindo uma rápida implementação de serviços web e RESTful.
+JavaScript: Utilizado para desenvolver a lógica do lado do cliente, interatividade e dinamismo na interface do usuário.
+Hibernate: Fornece uma camada de mapeamento objeto-relacional para o banco de dados, simplificando a interação com o banco de dados relacional.
+Docker: Utilizado para empacotar, distribuir e executar aplicativos em contêineres, garantindo consistência e portabilidade do ambiente de desenvolvimento para produção.
+Git e Github: Ferramentas essenciais para controle de versão e colaboração entre os membros da equipe, permitindo o gerenciamento eficiente do código-fonte.
+HTML: Responsável pela estruturação do conteúdo da página web.
+CSS: Utilizado para estilizar e formatar o layout da página web, garantindo uma experiência visual agradável para o usuário.
+Contribuições Pessoais
+Configuração do método GET no "/cr"
+Configuração Do Swagger
+Configuração Do Token Service
+Configuração do filtro de horas
+Hard Skills
+Java : Sei fazer com autonomia
+Springboot : Sei fazer com autonomia
+Javascript: Sei Fazer com autonomia
+Html : Sei Fazer com autonomia
+Css : Sei Fazer com autonomia
+PostgreSQL : Sei fazer com ajuda
+Soft Skills
+Comunicação: Exercitei minhas habilidades de comunicação ao interagir frequentemente com a equipe, transmitindo a visão do cliente e alinhando expectativas. Mantive um diálogo aberto e constante com o cliente para entender suas necessidades e garantir que as funcionalidades desenvolvidas atendessem às suas expectativas.
+
+Autodidatismo : Demonstrei proatividade ao buscar e adquirir conhecimentos sobre tecnologias novas, como Spring Boot, que não tinha familiaridade anteriormente.
+
+Trabalho sob pressão: Em momentos de baixa de recursos no time, assumi mais responsabilidades do que o habitual para garantir que o projeto fosse entregue dentro do prazo estabelecido.
+
+Em 2023-2
+banner-api-3
+
+Oracle Partner Tracker
+Empresa Parceira: Oracle
+Problema:
+A Oracle enfrenta dificuldades na gestão e análise eficiente dos dados provenientes do sistema OPN (Oracle PartnerNetwork) das empresas parceiras. A ausência de uma plataforma moderna compromete a visualização inteligente dessas informações, dificultando a identificação de melhorias e a tomada de decisões estratégicas.
+
+Solução Entregue pela Equipe:
+A Oracle Partner Tracker é uma plataforma moderna e inteligente de gerenciamento e análise de dados, capaz de interpretar, organizar e representar os dados do sistema OPN da empresa parceira Oracle. Entre os objetivos principais do projeto, se encontram a modernização do acompanhamento das empresas parceiras Oracle, assim como a visualização de dados de forma inteligente, para facilitar a identificação de melhorias e de conclusões estratégicas.
+
+Repositório do Projeto
+
+Tecnologias Utilizadas
+Java: Essencial para o desenvolvimento do backend do sistema de gestão de horas extras e sobreavisos.
+Spring Boot: Facilita a configuração e o desenvolvimento de aplicativos Java, permitindo uma rápida implementação de serviços web e RESTful.
+Vue: Utilizado para desenvolver a lógica do lado do cliente, interatividade e dinamismo na interface do usuário.
+Git e Github: Ferramentas essenciais para controle de versão e colaboração entre os membros da equipe, permitindo o gerenciamento eficiente do código-fonte.
+MySQL: Ferramentas essenciais para controle de versão e colaboração entre os membros da equipe, permitindo o gerenciamento eficiente do código-fonte.
+Contribuições Pessoais
+Mapa do Brasil Integrado a Imagem
+Configuração Do Controller Company
+Função Conectada a API Externa para busca de CNPJ
+Hard Skills
+Java : Sei fazer com autonomia
+Springboot : Sei fazer com autonomia
+Vue: Sei fazer com ajuda
+MySQL : Sei fazer com ajuda
+Soft Skills
+Relacionamento com Stakeholders: Atuei como ponte entre os stakeholders e a equipe de desenvolvimento, garantindo que a visão do produto fosse compreendida e aplicada com clareza. Promovi alinhamentos frequentes com o cliente para entender suas necessidades e convertê-las em requisitos priorizados, assegurando que as entregas estivessem em sintonia com os objetivos estratégicos do negócio. Essa atuação contribuiu para decisões mais ágeis e produtos com maior aderência ao valor esperado.
+
+Resolução de Problemas : Durante o projeto, exercitei minha capacidade de resolução de problemas ao lidar com desafios inesperados, como mudanças de requisitos ou limitações técnicas. Mantive uma postura proativa para entender a raiz dos problemas e colaborar com o time na busca por soluções viáveis. Isso contribuiu para manter o progresso das entregas e preservar o alinhamento com os objetivos do cliente, mesmo diante de imprevistos.
+
+Pensamento Estratégico: Apliquei pensamento estratégico ao priorizar funcionalidades com base no valor de negócio, no impacto ao usuário e nos objetivos da empresa. Busquei entender o contexto maior do produto, antecipar riscos e tomar decisões de backlog que garantissem entregas mais relevantes. Essa visão ampla foi essencial para alinhar o desenvolvimento com a estratégia do cliente e gerar mais valor a cada sprint.
+
+Em 2024-2
+banner-api-3
+
+RecruitDash
+Empresa Parceira: Pro4Tech
+Problema:
+Atualmente, a empresa enfrenta dificuldades para acompanhar e analisar de forma eficiente os dados relacionados ao processo de recrutamento e seleção. A ausência de uma plataforma centralizada e interativa dificulta o acesso a informações importantes como número de candidatos, tempo médio de contratação e custos envolvidos. Isso compromete a capacidade dos gestores de tomar decisões estratégicas rápidas e informadas. Além disso, a falta de relatórios dinâmicos e personalizáveis limita a análise detalhada por diferentes critérios, prejudicando a identificação de padrões e tendências que poderiam otimizar a eficiência do processo e a alocação dos recursos.
+
+Como resultado, o processo de recrutamento se torna menos eficiente, com desperdício de tempo e recursos, além de dificultar a melhoria contínua baseada em dados confiáveis e atualizados em tempo real.
+
+Solução Entregue pela Equipe:
+O objetivo da aplicação é um dashboard interativo para centralizar e visualizar dados do processo de recrutamento e seleção de uma empresa. A plataforma permitirá uma análise em tempo real de métricas como número de candidatos, tempo médio de contratação e custos, gerando relatórios dinâmicos que apoiam decisões estratégicas. Além disso, os usuários poderão personalizar relatórios conforme suas necessidades, filtrando informações por critérios relevantes. A ferramenta visa otimizar o processo de recrutamento, identificando padrões e tendências para melhorar a eficiência e alocação de recursos.
+
+Repositório do Projeto
+
+Tecnologias Utilizadas
+Java: Essencial para o desenvolvimento do backend do sistema de gestão de pessoas cadastradas para vagas
+Spring Boot: Facilita a configuração e o desenvolvimento de aplicativos Java, permitindo uma rápida implementação de serviços web e RESTful.
+React: Utilizado para desenvolver a lógica do lado do cliente, interatividade e dinamismo na interface do usuário.
+Git e Github: Ferramentas essenciais para controle de versão e colaboração entre os membros da equipe, permitindo o gerenciamento eficiente do código-fonte.
+Postgresql: Ferramentas essenciais para controle de versão e colaboração entre os membros da equipe, permitindo o gerenciamento eficiente do código-fonte.
+Docker: Utilizado para criar ambientes isolados e padronizados para a aplicação. Com Docker, é possível configurar containers para o backend, frontend e banco de dados, garantindo que todos os membros da equipe trabalhem com a mesma infraestrutura, facilitando o deploy, testes e escalabilidade do sistema.
+Contribuições Pessoais
+Versionamento De Banco
+Envio de emails
+ETL - "Extract, Transform, Load"
+Hard Skills
+Java : Sei fazer com autonomia
+Springboot : Sei fazer com autonomia
+Postgresql : Sei fazer com ajuda
+Soft Skills
+Autonomia e Proatividade: Desde a leitura do Excel até a carga no banco Postgresql, todo o processo foi estruturado de forma automática. Configurei um observador de arquivos com o Watchdog para monitorar a chegada de novos arquivos e iniciar o pipeline sem intervenção manual. Além disso, estruturei logs de erro por tabela, com mensagens explicativas, e movimentei os arquivos entre pastas (concluídos, com erro, etc.), demonstrando iniciativa para tornar o processo fluido, robusto e escalável.
+
+Pensamento Analítico : Durante o desenvolvimento do pipeline de ETL, enfrentei o desafio de lidar com diversas abas de um arquivo Excel contendo dados heterogêneos. Implementei uma lógica de validação de datas entre colunas relacionadas (como início e fim de processos), além de aplicar tratamentos específicos para campos como telefone, garantindo consistência antes da carga no banco de dados. Essa capacidade analítica foi fundamental para antecipar possíveis falhas de integridade nos dados e garantir a confiabilidade do
+
+Organização: Implementei um mapeamento externo via JSON para tornar o sistema flexível e facilitar a manutenção de colunas e tabelas. Além disso, cada tentativa de inserção é monitorada com tratamento de exceções SQL, permitindo identificar erros de chave primária, dados inconsistentes e outros problemas com clareza. Esse cuidado reflete meu comprometimento com a qualidade da solução e a facilidade de diagnóstico e correção de erros no ambiente produtivo.
+
+Em 2025-1
+banner-api-3
+
+FloraTrack
+Empresa Parceira: Kersys
+Problema:
+Atualmente, não existe uma solução tecnológica centralizada e inteligente para o monitoramento e gestão eficiente de áreas reflorestadas. A ausência de ferramentas que integrem dados sobre saúde das árvores, captura de CO₂, qualidade do solo, biodiversidade e fontes de financiamento dificulta a tomada de decisões estratégicas. O uso de Inteligência Artificial é necessário para analisar esses dados em tempo real, prever tendências ambientais e otimizar os esforços de reflorestamento com base em insights automatizados. Uma API integrada com recursos de IA pode transformar a forma como esses projetos são acompanhados e aprimorados.
+
+Solução Entregue pela Equipe:
+O projeto tem como objetivo principal desenvolver uma API inteligente voltada para a gestão de áreas reflorestadas, integrando dados ambientais e financeiros de forma centralizada. Com o uso de Inteligência Artificial, a solução permitirá monitorar a captura de CO₂, a qualidade do solo e a sobrevivência das árvores, fornecendo análises preditivas e recomendações automatizadas. A API também facilitará o controle e a transparência das fontes de financiamento, bem como a avaliação da biodiversidade ao longo do tempo. Além disso, possibilitará a comparação entre áreas reflorestadas de diferentes regiões e biomas, contribuindo para uma tomada de decisão mais eficiente e sustentável.
+
+Repositório do Projeto
+
+Tecnologias Utilizadas
+Python: Essencial para o desenvolvimento do backend do sistema de gestão de áreas reflorestadas
+Flask: Facilita a configuração e o desenvolvimento de aplicativos Python, permitindo uma rápida implementação de serviços web e RESTful.
+React: Utilizado para desenvolver a lógica do lado do cliente, interatividade e dinamismo na interface do usuário.
+Git e Github: Ferramentas essenciais para controle de versão e colaboração entre os membros da equipe, permitindo o gerenciamento eficiente do código-fonte.
+Postgresql: Ferramentas essenciais para controle de versão e colaboração entre os membros da equipe, permitindo o gerenciamento eficiente do código-fonte.
+Contribuições Pessoais
+Foco Total no Produto
+Sistema e Exclusão LGPD
+Hard Skills
+Python : Sei fazer com autonomia
+Flask : Sei fazer com ajuda
+Postgresql : Sei fazer com ajuda
+Soft Skills
+Liderança Colaborativa:: Atuei como Product Owner liderando as definições e o direcionamento do projeto, facilitando a comunicação entre equipe técnica e os requisitos do cliente. Promovi reuniões constantes para alinhamento, definição de prioridades e acompanhamento do progresso, garantindo que todos estivessem engajados e focados em metas comuns. Essa atuação contribuiu diretamente para a entrega de um produto coerente e funcional.
+
+Visão Estratégica de Produto : Estruturei o sistema com foco em sustentabilidade e conformidade legal, propondo soluções como a criptografia assimétrica para garantir anonimização de dados conforme a LGPD. Essa abordagem conectou as decisões técnicas aos objetivos maiores do projeto, como transparência ambiental e segurança de dados, antecipando riscos futuros e alinhando o produto às demandas do mercado.
+
+Comunicação Eficaz: Traduzi conceitos técnicos complexos, como encriptação e modelagem de dados ambientais, em histórias compreensíveis para todos os envolvidos no projeto. Isso possibilitou o entendimento claro das funcionalidades por parte dos desenvolvedores e facilitou a validação das entregas com stakeholders, garantindo assertividade e confiança no processo.
